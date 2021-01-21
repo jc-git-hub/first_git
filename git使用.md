@@ -29,7 +29,7 @@
 #### 提交到远程仓库
 
 * git pull origin master #提交到github的master分支
-* 解决冲突  --allow=unrelated-histories
+* 解决冲突  --allow=unrelated-histories  允许不匹配的提交
 * git push origin master
 * 账号密码
 
@@ -51,3 +51,4 @@
 * 将这个密钥对提交到远程仓库
   *  \#将这个密钥提交给远程仓库  https://github.com/settings/keys  来到远程仓库 点击settings ssh and GPGkeys    添加 SSH keys 
 
+给i他
